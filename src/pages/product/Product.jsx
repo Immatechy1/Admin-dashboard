@@ -4,6 +4,7 @@ import Chart from "../../components/chart/Chart";
 import { productData } from "../../components/dummyData";
 import { Publish } from "@material-ui/icons";
 
+
 export default function Product() {
   return (
     <div className="product">
