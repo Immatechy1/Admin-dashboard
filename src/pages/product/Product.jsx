@@ -55,9 +55,6 @@ export default function Product() {
   }, [productId, MONTHS]);
 
 
-
-
-  
   return (
     <div className="product">
       <div className="productTitleContainer">
