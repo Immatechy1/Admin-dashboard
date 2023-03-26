@@ -54,10 +54,6 @@ export default function Product() {
     getStats();
   }, [productId, MONTHS]);
 
-
-
-
-  
   return (
     <div className="product">
       <div className="productTitleContainer">
